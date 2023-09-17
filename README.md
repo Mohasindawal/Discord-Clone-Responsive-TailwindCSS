@@ -2,7 +2,7 @@
 
 Welcome to my Discord Clone project, which is my Tailwind CSS first project! This project aims to replicate the Discord user interface and functionality while showcasing my skills in front-end development.
 
-![Project Preview](link-to-your-project-preview-image.png)
+![Project Preview](images/Capture.PNG)
 
 ## Features
 
