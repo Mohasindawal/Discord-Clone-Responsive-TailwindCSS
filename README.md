@@ -15,3 +15,4 @@ Welcome to my Discord Clone project, which is my Tailwind CSS first project! Thi
 - **Tailwind CSS**: This project was created using Tailwind CSS, a utility-first CSS framework, to build a responsive and visually appealing user interface.
 
 
+[View Discord Clone](https://mohasindawal.github.io/Discord-Clone-Responsive-TailwindCSS/)
